@@ -46,12 +46,12 @@
   </Networking>
   <Data>
     <Volume>
-      <HostDir>/mnt/user/appdata/Sync</HostDir>
+      <HostDir>/mnt/user/appdata/sync-v1.3.109</HostDir>
       <ContainerDir>/config</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
   </Data>
-  <Version></Version>
+  <Version>1.3.109.1</Version>
   <WebUI>http://[IP]:[PORT:8888]/</WebUI>
   <Icon>http://d2631fvi2jdnb6.cloudfront.net/docker/limetech/sync.png</Icon>
 </Container>
